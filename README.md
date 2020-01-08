@@ -1,2 +1,2 @@
 # prinia-project
-methods to analyze multi-species bio-acoustic datasets
+pipeline to analyse multi-species bio-acoustic datasets
