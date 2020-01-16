@@ -16,4 +16,4 @@ __Methods__
 The pipeline can be extended to look for clustering in multi-species community data
 
 Check out [our paper in Behavioural Ecology](https://academic.oup.com/beheco/advance-article/doi/10.1093/beheco/arz216/5702188) to find out more! 
-(Data in this github repository also available [on DRYAD](https://datadryad.org/stash/dataset/doi:10.5061/dryad.7sqv9s4p9))
+(Data in this github repository is also available [on DRYAD](https://datadryad.org/stash/dataset/doi:10.5061/dryad.7sqv9s4p9))
