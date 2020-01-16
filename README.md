@@ -15,4 +15,4 @@ __Methods__
 
 The pipeline can be extended to look for clustering in multi-species community data
 
-Check out [our paper in Behavioural Ecology] (https://academic.oup.com/beheco/advance-article/doi/10.1093/beheco/arz216/5702188) to find out more!
+Check out [our paper in Behavioural Ecology](https://academic.oup.com/beheco/advance-article/doi/10.1093/beheco/arz216/5702188) to find out more!
