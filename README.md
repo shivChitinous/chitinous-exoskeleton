@@ -8,9 +8,9 @@ It allows for easy visualisation and classification based tools to look for
 3. _Repetition Rate Analysis_
 
 __Methods__
-1. We perform PCA to ordinate notes  points in N-dimensional space
+1. We perform PCA to ordinate song notes as points in N-dimensional space
 2. Build Linear Discriminant Classifiers using scikitlearn (in Python) and MATLAB
-3. Perform Higherarchical Clustering to classify notes
+3. Perform Higherarchical Clustering to classify song notes
 4. Extract distributions of repetition rate for species with a single note type
 
 The pipeline can be extended to look for clustering in multi-species community data
