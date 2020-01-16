@@ -8,7 +8,7 @@ It allows for easy visualisation and classification based tools to look for
 3. _Repetition Rate Analysis_
 
 __Methods__
-1. We perform PCA and ordinate notes as points in N-dimensional space
+1. We perform PCA to ordinate notes  points in N-dimensional space
 2. Build Linear Discriminant Classifiers using scikitlearn (in Python) and Classification Learner in MATLAB
 3. Perform Higherarchical Clustering to classify notes
 4. Extract distributions of repetition rate for species with a single note type
