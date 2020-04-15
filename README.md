@@ -23,4 +23,4 @@ Click on the link below to run the analysis pipeline on your browser:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shivChitinous/prinia-project/master)
 
 Instructions on using binder:
-Upload your .csv files in the home section, change the filenames in the notebook and you are good to go!
+Upload your .csv files in the home section, change the filenames in the notebook (prinia_project.ipynb) and you are good to go!
