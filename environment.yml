@@ -2,7 +2,7 @@ name: virtual_environment
 channels:
   - conda-forge
 dependencies:
-  - python3
+  - python
   - numpy
   - scipy
   - pandas
