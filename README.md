@@ -21,5 +21,6 @@ Check out [our paper in Behavioural Ecology](https://academic.oup.com/beheco/adv
 Click on the link below to run the analysis pipeline in your browser:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shivChitinous/prinia-project/master)
+
 Instructions on using binder:
 Upload your .csv files in the home section, change the filenames in the notebook (prinia_project.ipynb) and you are good to go!
