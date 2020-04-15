@@ -11,6 +11,6 @@ dependencies:
   - pingouin
   - pip
   - pip:
-    - scikitplot
+    - scikit-plot
     - sklearn
     - mpl_toolkits
