@@ -1,20 +1,16 @@
-name: example-environment
+name: virtual_environment
 channels:
   - conda-forge
 dependencies:
+  - python3
   - numpy
   - scipy
   - pandas
   - seaborn
-  - matplotlib.pyplot
+  - matplotlib
   - pingouin
-  - scikitplot
-  - sklearn.preprocessing
-  - sklearn.discriminant_analysis
-  - sklearn.model_selection
-  - sklearn.decomposition
-  - sklearn.utils
-  - mpl_toolkits.mplot3d
-  - scipy.stats
-  - sklearn.cluster
-  - sklearn.metrics
+  - pip
+  - pip:
+    - scikitplot
+    - sklearn
+    - mpl_toolkits
