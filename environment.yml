@@ -5,9 +5,16 @@ dependencies:
   - numpy
   - scipy
   - pandas
-  - matplotlib
   - seaborn
+  - matplotlib.pyplot
   - pingouin
   - scikitplot
-  - sklearn
-  - mpl_toolkits
+  - sklearn.preprocessing
+  - sklearn.discriminant_analysis
+  - sklearn.model_selection
+  - sklearn.decomposition
+  - sklearn.utils
+  - mpl_toolkits.mplot3d
+  - scipy.stats
+  - sklearn.cluster
+  - sklearn.metrics
