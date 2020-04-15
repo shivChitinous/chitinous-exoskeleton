@@ -1,0 +1,15 @@
+name: virtual_environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - pandas
+  - seaborn
+  - matplotlib
+  - pingouin
+  - pip
+  - pip:
+    - scikit-plot
+    - sklearn
