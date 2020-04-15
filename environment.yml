@@ -13,4 +13,3 @@ dependencies:
   - pip:
     - scikit-plot
     - sklearn
-    - mpl_toolkits
