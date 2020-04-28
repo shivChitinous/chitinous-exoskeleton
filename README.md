@@ -1,4 +1,5 @@
 # prinia-project
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shivChitinous/prinia-project/master)
 
 The prinia-project is a pipeline to analyse multispecies acoustic datasets in Python and MATLAB
 
@@ -17,10 +18,6 @@ The pipeline can be extended to look for clustering in multi-species community d
 
 Check out [our paper in Behavioural Ecology](https://academic.oup.com/beheco/advance-article/doi/10.1093/beheco/arz216/5702188) to find out more! 
 (Data in this github repository is also available [on DRYAD](https://datadryad.org/stash/dataset/doi:10.5061/dryad.7sqv9s4p9))
-
-Click on the link below to run the analysis pipeline in your browser:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shivChitinous/prinia-project/master)
 
 Instructions on using binder:
 Upload your .csv files in the home section, change the filenames in the notebook (prinia_project.ipynb) and you are good to go!
