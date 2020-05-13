@@ -21,5 +21,5 @@ The pipeline can be extended to look for clustering in multi-species community d
 Check out [our paper in Behavioural Ecology](https://academic.oup.com/beheco/advance-article/doi/10.1093/beheco/arz216/5702188) to find out more! 
 (Data in this repository is also available [on DRYAD](https://datadryad.org/stash/dataset/doi:10.5061/dryad.7sqv9s4p9))
 
-Instructions on using binder:
+__Instructions on using binder:__
 Upload your .csv files in the home section, change the filenames in the notebook (prinia_project.ipynb) and you are good to go!
