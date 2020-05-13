@@ -1,6 +1,7 @@
 # prinia-project
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shivChitinous/prinia-project/master)
-[![DOI:10.1093/beheco/arz216](https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg)](https://doi.org/10.1093/beheco/arz216)
+[![Generic badge](https://img.shields.io/badge/DOI-10.1093/beheco/arz216-red.svg)](https://shields.io/)
+
 
 The prinia-project is a pipeline to analyse multispecies acoustic datasets in Python and MATLAB
 
