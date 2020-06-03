@@ -1,4 +1,4 @@
-# prinia-project
+# prinia-project :bird:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shivChitinous/prinia-project/master)
 [![Generic badge](https://img.shields.io/badge/DOI-10.1093/beheco/arz216-red.svg)](https://doi.org/10.1093/beheco/arz216)
 
